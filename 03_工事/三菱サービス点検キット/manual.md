@@ -5,7 +5,7 @@
 
 ## 設定
 1個のSW2の4,6をオンする
-![SW2の操作](images\hontai.jpg)
+![SW2の操作](images\hontai.PNG)
 
 SW2の4,6をオンした方を、上位側に刺す
 SW2すべてオフした方を下位側に刺す
