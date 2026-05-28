@@ -3,9 +3,9 @@
 
 サービスキットは必ず2個必要
 
-## 設定
+## SW2設定状態
 1個のSW2の4,6をオンする
-![settei](images/hontai.png)
+![SW2設定状態](images/hontai.png)
 
 SW2の4,6をオンした方を、上位側に刺す
 
