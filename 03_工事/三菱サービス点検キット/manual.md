@@ -5,7 +5,7 @@
 
 ## 設定
 1個のSW2の4,6をオンする
-![settei](images\hontai.png)
+![settei](images/hontai.png)
 
 SW2の4,6をオンした方を、上位側に刺す
 
